@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ]
+  ],
+  "legacy_uid": "2b87c6ac-0200-044c-f551-d436f268b160",
+  "instructors": {
+    "content": [
+      "0528de4d-7881-6e61-492b-c1af2ccf08b9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bb54a408-b882-c7ab-b12b-f5a2e9a2fdd1",
+    "website": "21a-218j-identity-and-difference-spring-2010"
+  },
+  "course_title": "Identity and Difference",
+  "course_description": "This course explores how identities, whether of individuals or groups, are produced, maintained, and transformed. Students will be introduced to various theoretical perspectives that deal with identity formation, including constructions of \"the normal.\" We will explore the utility of these perspectives for understanding identity components such as gender, sexual orientation, race, ethnicity, religion, language, social class, and bodily difference. By semester's end students will understand better how an individual can be at once cause and consequence of society, a unique agent of social action as well as a social product.\n",
+  "department_numbers": [
+    "21A",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.170J",
+  "primary_course_number": "21A.101J (formerly 21A.218J)",
+  "course_image_thumbnail": {
+    "content": "59f1439b-53ef-bfbf-6eb3-64b81646981a",
+    "website": "21a-218j-identity-and-difference-spring-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "3e3c55ac-0204-49e5-a576-6a556b9f0ac2",
+  "site_short_id": "21a.101j-spring-2010",
+  "site_url_path": "courses/21a-218j-identity-and-difference-spring-2010",
+  "title": "Course Metadata"
+}
