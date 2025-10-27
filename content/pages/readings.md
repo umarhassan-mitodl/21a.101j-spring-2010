@@ -59,9 +59,9 @@ Davis, Natalie Zemon. "Boundaries and the Sense of Self in Sixteenth-Century Fra
 
 Mead, George Herbert. "The Self, the I, and the Me." In Lemert, Charles. *Social Theory: The Multicultural & Classic Readings*. Boulder, CO: Westview, 2009. ISBN: 9780813343921.
 
-Bentham, Jeremy. "[Of the Principle of Utility](http://en.wikisource.org/wiki/An_Introduction_to_the_Principles_of_Morals_and_Legislation/Chapter_I)." *The Principles of Morals and Legislation*, 1789.
+Bentham, Jeremy. "{{% resource_link "bd8d148c-81dd-4f65-9ec8-4b7e6f6e6f23" "Of the Principle of Utility" %}}." *The Principles of Morals and Legislation*, 1789.
 
-Wade, Nicholas. "[Human Culture, an Evolutionary Force](http://www.nytimes.com/2010/03/02/science/02evo.html)." *New York Times*, March 1, 2010.
+Wade, Nicholas. "{{% resource_link "b043c15d-c1b4-46ea-8715-e69ae66082a2" "Human Culture, an Evolutionary Force" %}}." *New York Times*, March 1, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -81,19 +81,19 @@ Pascoe, Peggy. "Miscegenation Law, Court Cases, and Ideologies of 'Race' in 20th
 
 ### Optional
 
-Springen, Karen, and David Noonan. "[Sperm Banks Go Online](http://www.newsweek.com/2003/04/20/sperm-banks-go-online.html)." *Newsweek*, April 21, 2003.
+Springen, Karen, and David Noonan. "{{% resource_link "d1bb5d10-4fd1-4fc6-865c-91a5210b0c10" "Sperm Banks Go Online" %}}." *Newsweek*, April 21, 2003.
 
-Fisher, Ian. "[Bill Would Govern Use of Dead Men's Sperm](http://www.nytimes.com/1998/03/07/nyregion/bill-would-govern-use-of-dead-men-s-sperm.html)." *New York Times*, March 7, 1998.
+Fisher, Ian. "{{% resource_link "6a49bf24-8bc3-4294-be36-723e43475128" "Bill Would Govern Use of Dead Men's Sperm" %}}." *New York Times*, March 7, 1998.
 
-Harmon, Amy. "[First Comes the Baby Carriage](http://www.nytimes.com/2005/10/13/fashion/thursdaystyles/13BANKS.html)." *New York Times*, October 13, 2005.
+Harmon, Amy. "{{% resource_link "0df3296b-6333-45f7-aa35-898af371cb3f" "First Comes the Baby Carriage" %}}." *New York Times*, October 13, 2005.
 
-Alvarez, Lizette. "[Spreading Scandinavian Genes, Without Viking Boats](http://www.nytimes.com/2004/09/30/international/europe/30sperm.html)." *New York Times*, September 30, 2004.
+Alvarez, Lizette. "{{% resource_link "79de9340-3653-47cf-8f59-9c6383b1bb89" "Spreading Scandinavian Genes, Without Viking Boats" %}}." *New York Times*, September 30, 2004.
 
-Plotz, David. "[Who's Your Daddy?](http://www.nytimes.com/2005/05/19/opinion/19plotz.html)" *New York Times*, May 19, 2005.
+Plotz, David. "{{% resource_link "d9755935-82b8-4e4e-931f-43da080015ac" "Who's Your Daddy?" %}}" *New York Times*, May 19, 2005.
 
-Simons, Marlise. "[French Uproar Over Right to Death for Unborn](http://www.nytimes.com/2001/10/19/world/french-uproar-over-right-to-death-for-unborn.html)." *New York Times*, October 19, 2001.
+Simons, Marlise. "{{% resource_link "df1c3a96-1c0d-403d-a7a7-32872eb4b069" "French Uproar Over Right to Death for Unborn" %}}." *New York Times*, October 19, 2001.
 
-Daley, Suzanne. "[France Bans Damages for 'Wrongful Births'](http://www.nytimes.com/2002/01/11/international/11FRAN.html)." *New York Times*, January 10, 2002.
+Daley, Suzanne. "{{% resource_link "182f9e9a-4477-4a93-b8c4-709749e67459" "France Bans Damages for 'Wrongful Births'" %}}." *New York Times*, January 10, 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -107,9 +107,9 @@ Bourgois, pp. 1-173.
 
 \[Legacies\] Díaz, Junot. "Fiesta 1980." Originally in Díaz, Junot. *Drown*. New York, NY: Riverhead Books, 1996. ISBN: 9781573220415.
 
-[Ahmad ibn Fadlan](http://en.wikipedia.org/wiki/Ahmad_ibn_Fadlan)
+{{% resource_link "73be8f31-67b0-4bf4-83bf-98a6ef28249b" "Ahmad ibn Fadlan" %}}
 
-"[Scandinavia and Ibn Fadlan](https://muslimheritage.com/scandinavia-ibn-fadlan/)." *MuslimHeritage.com*, February 2, 2007.
+"{{% resource_link "2ae146c9-46a1-4469-8ed3-b776e70da4ec" "Scandinavia and Ibn Fadlan" %}}." *MuslimHeritage.com*, February 2, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -123,9 +123,9 @@ Bourgois, pp. 174-337.
 
 Durkheim, Emile. "The Normal and the Pathological." In Clarke, Edward J., and Delos H. Kelly. *Deviant Behavior*. New York, NY: Worth Publishers, 2008. ISBN: 9781429205184.
 
-LaFraniere, Sharon. "[A Miniature World Magnifies Dwarf Life](http://www.nytimes.com/2010/03/04/world/asia/04dwarfs.html)." *New York Times*, March 3, 2010.
+LaFraniere, Sharon. "{{% resource_link "63d0c6df-8ce1-4763-9f52-a00a1996c0ea" "A Miniature World Magnifies Dwarf Life" %}}." *New York Times*, March 3, 2010.
 
-Itzkoff, Dave. "'[Family Guy', Palin, and the Limits of Laughter](http://www.nytimes.com/2010/02/20/arts/television/20family.html)." *New York Times*, February 19, 2010.
+Itzkoff, Dave. "'{{% resource_link "0b9e07ba-ff07-4948-a50d-9fb5dccc4bed" "Family Guy', Palin, and the Limits of Laughter" %}}." *New York Times*, February 19, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -151,9 +151,9 @@ Sexuality
 
 \[RCG\] Takagi, Dana. "Maiden Voyage: Excursion into Sexuality and Identity Politics in Asian America."
 
-Bumiller, Elisabeth. "[Repeal of 'Don't Ask, Don't Tell' Policy Filed in Senate](http://www.nytimes.com/2010/03/04/us/politics/04military.html)." *New York Times*, March 3, 2010.
+Bumiller, Elisabeth. "{{% resource_link "6446e323-11c8-4b9c-b0e2-787b19555e8e" "Repeal of 'Don't Ask, Don't Tell' Policy Filed in Senate" %}}." *New York Times*, March 3, 2010.
 
-Boylan, Jennifer Finney. "[Is My Marriage Gay?](http://www.nytimes.com/2009/05/12/opinion/12boylan.html)" *New York Times*, May 11, 2009.
+Boylan, Jennifer Finney. "{{% resource_link "e98e489e-9702-4a1e-9d82-536f90a55019" "Is My Marriage Gay?" %}}" *New York Times*, May 11, 2009.
 
 Rudnick, Paul. "Don't Ask Me." *New Yorker*, March 22, 2010.
 
@@ -187,9 +187,9 @@ Kendall, Lori. "'Oh No! I'm a Nerd!': Hegemonic Masculinity on an Online Forum."
 
 Pyke, Karen D., and Denise L. Johnson. "Asian American Women and Racialized Femininities: 'Doing' Gender Across Cultural Worlds." *Gender and Society* 17 (2003): 33-53.
 
-Glaberson, William. "[For Transgender People, Name is a Message](http://www.nytimes.com/2010/01/25/nyregion/25namechange.html)." *New York Times*, January 24, 2010.
+Glaberson, William. "{{% resource_link "60f123f3-16e9-4986-bf97-f5a66f256896" "For Transgender People, Name is a Message" %}}." *New York Times*, January 24, 2010.
 
-Brown, Patricia Leigh. "[A Quest for a Restroom That's Neither Men's Room Nor Women's Room](http://www.nytimes.com/2005/03/04/national/04bathroom.html)." *New York Times*, March 4, 2005.
+Brown, Patricia Leigh. "{{% resource_link "632efb6d-e794-4c4b-a553-1f0386aaad6c" "A Quest for a Restroom That's Neither Men's Room Nor Women's Room" %}}." *New York Times*, March 4, 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -227,7 +227,7 @@ Malamud, Bernard. "The Jewbird." In Cassill, R. V. *The Norton Anthology of Shor
 
 \[RCG\] Takaki, Ronald T. "A Different Mirror." Originally in Takaki, Ronald R. *A Different Mirror: A History of Multicultural America*. Boston, MA: Back Bay Books, 2008. ISBN: 9780316022361.
 
-\[RCG\] Ferber, Abby L. "[What White Supremacists Taught a Jewish Scholar About Identity](http://chronicle.com/article/What-White-Supremacists-Tau/11962/)." Originally in *The Chronicle of Higher Education*, May 7, 1999.
+\[RCG\] Ferber, Abby L. "{{% resource_link "dc7a77e2-0e4b-4bae-bc81-aed20cc8daea" "What White Supremacists Taught a Jewish Scholar About Identity" %}}." Originally in *The Chronicle of Higher Education*, May 7, 1999.
 
 \[RCG\] Cofer, Judith Ortiz. "The Myth of the Latin Woman: I Just Met a Girl Named María."
 
@@ -259,17 +259,17 @@ Smedley, Audrey. "'Race' and the Construction of Human Identity." *American Anth
 
 \[SCRE\] Jefferson, Thomas. "Letter From Thomas Jefferson: Virginia's Definition of a Mulatto."
 
-Du Bois, W. E. B. "The Philadelphia Negro: A Social Study," 1899. "[The Souls of Black Folk](http://en.wikisource.org/wiki/The_Souls_of_Black_Folk)," 1903. In Farganis, James. *Readings in Social Theory: The Classic Tradition to Post-Modernism*. New York, NY: McGraw-Hill, 2010. ISBN: 9780078111556.
+Du Bois, W. E. B. "The Philadelphia Negro: A Social Study," 1899. "{{% resource_link "6e2274de-c1c8-4973-b991-0a7fe219c88f" "The Souls of Black Folk" %}}," 1903. In Farganis, James. *Readings in Social Theory: The Classic Tradition to Post-Modernism*. New York, NY: McGraw-Hill, 2010. ISBN: 9780078111556.
 
 \[Legacies\] Jacobs, Harriet. "Incidents in the Life of a Slave Girl."
 
 ### Optional
 
-Nixon, Ron. "[DNA Tests Find Branches but Few Roots](http://www.nytimes.com/2007/11/25/business/25dna.html?_r=2)." *New York Times*, November 25, 2007.
+Nixon, Ron. "{{% resource_link "9197a35e-b8d7-4049-acdb-467614555928" "DNA Tests Find Branches but Few Roots" %}}." *New York Times*, November 25, 2007.
 
-Potok, Mark, et al. "[The Geography of Hate](http://www.nytimes.com/2007/11/25/opinion/25potok.html)." *New York Times*, November 25, 2007.
+Potok, Mark, et al. "{{% resource_link "b63cb74f-4730-4953-8d74-b3adebb9b0fe" "The Geography of Hate" %}}." *New York Times*, November 25, 2007.
 
-Saulny, Susan. "[With New Homes, Town Makes Amends for Its Bias](http://www.nytimes.com/2010/03/11/us/11housing.html)." *New York Times*, March 10, 2010.
+Saulny, Susan. "{{% resource_link "5b309eae-a95f-42ac-8b21-1a4ffea7e780" "With New Homes, Town Makes Amends for Its Bias" %}}." *New York Times*, March 10, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -311,7 +311,7 @@ Cole, Johnnetta Betsch, and Beverly Guy-Sheftall. "Collisions: Black Liberation 
 
 \[RCG\] Williams, Patricia. "Of Race and Risk." (Also in Schaefer, *Racial and Ethnic Groups*.)
 
-"[How to Tell Your Friends From the Japs.](http://www.english.illinois.edu/maps/poets/a_f/foster/lifemag.htm)" *Time*, December 22, 1941.
+"{{% resource_link "465b0743-5633-4c4d-a1dc-088aa197622a" "How to Tell Your Friends From the Japs." %}}" *Time*, December 22, 1941.
 
 \[SCRE\] Forbes, Jack D. "'Indian' and 'Black' as Radically Different Types of Categories."
 
@@ -325,6 +325,6 @@ Lei, Joy L. "(Un)necessary Toughness? Those 'Loud Black Girls' and Those Quiet A
 
 \[RCG\] Churchill, Ward. "Crimes Against Humanity."
 
-Harmon, Amy. "[Indian Tribe Wins Fight to Limit Research of its DNA](http://www.nytimes.com/2010/04/22/us/22dna.html)." *New York Times*, April 21, 2010.
+Harmon, Amy. "{{% resource_link "0758e754-b15c-45b9-8515-11e00ee9d65e" "Indian Tribe Wins Fight to Limit Research of its DNA" %}}." *New York Times*, April 21, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
