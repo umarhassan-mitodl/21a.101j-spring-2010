@@ -2,8 +2,6 @@
 content_type: page
 description: This page contains handouts on writing and brief descriptions of the
   three essay assignments given during the semester.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -22,11 +20,11 @@ Van Evera, Stephen. "How to Write a Paper." ({{% resource_link 99c49f39-d02b-ab1
 
 Cohen, Joshua. "Some Rules of Thumb for Writing Papers." ({{% resource_link bc8ca273-6726-cbe0-3ca1-94b3bc1c0cc0 "PDF" %}}) (Courtesy of Joshua Cohen. Used with permission.)
 
-Cooper, Kim. "[Tips on Grammar, Punctuation, and Style](http://www.fas.harvard.edu/~wricntr/documents/GP.html)." Harvard College Writing Center, 1999.
+Cooper, Kim. "{{% resource_link "de80cde5-825c-40bc-b7ea-bb8456374877" "Tips on Grammar, Punctuation, and Style" %}}." Harvard College Writing Center, 1999.
 
-Saltz, Laura, et al. "[Revising the Draft](http://www.fas.harvard.edu/~wricntr/documents/Revising.html)." Harvard College Writing Center, 1998.
+Saltz, Laura, et al. "{{% resource_link "ebaa7649-d504-41b4-9245-837df8cdde5f" "Revising the Draft" %}}." Harvard College Writing Center, 1998.
 
-Perelman, Leslie, James Paradis, and Edward Barrett. "[Using Source Language Appropriately](http://www.mhhe.com/mayfieldpub/tsw/source.htm)." Section 10.1 in _The Mayfield Handbook of Technical and Science Writing_. New York, NY: McGraw-Hill, 2001.
+Perelman, Leslie, James Paradis, and Edward Barrett. "{{% resource_link "8e0afee9-4589-4450-a5da-38a22b5d1ae0" "Using Source Language Appropriately" %}}." Section 10.1 in _The Mayfield Handbook of Technical and Science Writing_. New York, NY: McGraw-Hill, 2001.
 
 Essays
 ------

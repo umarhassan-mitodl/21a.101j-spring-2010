@@ -2,8 +2,6 @@
 content_type: page
 description: This calendar section provides the schedule of lecture topics, assignments,
   media viewings, and student presentations for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -34,7 +32,7 @@ KEY DATES
 Introduction to Course
 {{< tdclose >}}
 {{< tdopen >}}
-Viewing: [_American Tongues_](http://www.imdb.com/title/tt0303637/). Louis Alvarez and Andy Kolker. Center for New American Media, 1998.
+Viewing: {{% resource_link "eceb566b-e5bc-4f5e-ad37-28b146637fa8" "_American Tongues_" %}}. Louis Alvarez and Andy Kolker. Center for New American Media, 1998.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +56,7 @@ Studying Identity and Difference: Concepts
 Analytic Perspectives: Bodies
 {{< tdclose >}}
 {{< tdopen >}}
-Viewing: [_One in 2000_](http://www.imdb.com/title/tt1139122/). Ajae Clearway. Polyvinyl Pictures, 2007.
+Viewing: {{% resource_link "7286b0fc-ed49-4abb-affd-f0352f28081b" "_One in 2000_" %}}. Ajae Clearway. Polyvinyl Pictures, 2007.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +108,7 @@ Sexuality
 
 Final draft of first written assignment due
 
-Viewing: [_Sunflowers_](http://www.imdb.com/title/tt0390519/). J. P. Tepnapa. SkyAngel Films, 2001.
+Viewing: {{% resource_link "b01d3c03-4220-41cf-a179-70963c94c717" "_Sunflowers_" %}}. J. P. Tepnapa. SkyAngel Films, 2001.
 
 
 {{< tdclose >}}
@@ -128,7 +126,7 @@ Gender
 
 First draft of first written assignment due
 
-Viewing: [_You Don't Know Dick_](http://www.imdb.com/title/tt0118206/). Bestor Cram and Candace Schermerhorn. Northern Light Productions, 1996.
+Viewing: {{% resource_link "d494aecc-85ba-4ee8-815d-da3e70439566" "_You Don't Know Dick_" %}}. Bestor Cram and Candace Schermerhorn. Northern Light Productions, 1996.
 
 
 {{< tdclose >}}
@@ -146,7 +144,7 @@ Religion; Social Class
 
 Second written assignment handed back, with comments
 
-Viewing: [_People Like Us: Social Class in America_](http://www.imdb.com/title/tt0362022/). Louis Alvarez and Andy Kolker. Center for New American Media, 2001.
+Viewing: {{% resource_link "14265a49-97ae-4dff-ba46-35fc827eb6f6" "_People Like Us: Social Class in America_" %}}. Louis Alvarez and Andy Kolker. Center for New American Media, 2001.
 
 
 {{< tdclose >}}
@@ -164,7 +162,7 @@ Ethnicity
 
 Final draft of second written assignment due
 
-Viewing: [_Black Indians: An American Story_](http://www.imdb.com/title/tt0344936/). Chip Richie and Daniel Blake Smith. Rich-Heape Films, 2001.
+Viewing: {{% resource_link "e6ab6ad3-0f84-4dbd-afad-60879c761db0" "_Black Indians: An American Story_" %}}. Chip Richie and Daniel Blake Smith. Rich-Heape Films, 2001.
 
 Optional first draft of third written assignment due in the next week
 
@@ -184,7 +182,7 @@ Race
 
 Optional first draft of third written assignment handed back, with comments
 
-Viewing: Selections from [_bro' Town_](http://www.imdb.com/title/tt0491515/). The Naked Samoans. Firehorse Films, 2004-2009.
+Viewing: Selections from {{% resource_link "4c5cb824-0db0-49f8-8862-463f46e602a0" "_bro' Town_" %}}. The Naked Samoans. Firehorse Films, 2004-2009.
 
 
 {{< tdclose >}}
@@ -202,9 +200,9 @@ Race, Gender, Ethnicity I
 
 Final draft of third written assignment due
 
-Viewing: One of [_African American Lives: Listening to Our Past_](http://www.imdb.com/title/tt0344936/). Graham Judd. Kunhardt Productions, 2006.
+Viewing: One of {{% resource_link "e6ab6ad3-0f84-4dbd-afad-60879c761db0" "_African American Lives: Listening to Our Past_" %}}. Graham Judd. Kunhardt Productions, 2006.
 
-[_Me Broni Ba (My White Baby)_](http://www.imdb.com/title/tt1443444/). Akosua Adoma Owasu and Adowa Adu-Gyamfi. 2009.
+{{% resource_link "23b44a1b-ecf8-4383-a46f-89a88d7dd51c" "_Me Broni Ba (My White Baby)_" %}}. Akosua Adoma Owasu and Adowa Adu-Gyamfi. 2009.
 
 
 {{< tdclose >}}
@@ -222,7 +220,7 @@ Race, Gender, Ethnicity II
 
 Student presentations
 
-Viewing: [_Miss Navajo_](http://www.imdb.com/title/tt0912591/). Billy Luther. World of Wonder, 2007.
+Viewing: {{% resource_link "33917610-ce52-4b30-b3b0-bc2985dcac7e" "_Miss Navajo_" %}}. Billy Luther. World of Wonder, 2007.
 
 
 {{< tdclose >}}
